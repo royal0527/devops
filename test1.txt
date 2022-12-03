@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is AC7E-C806
-
- Directory of C:\Users\RAGHU\Desktop\Myproject
-
-03-12-2022  11.28 PM    <DIR>          .
-03-12-2022  11.21 PM    <DIR>          ..
-03-12-2022  11.28 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  168,071,929,856 bytes free
+change 1
